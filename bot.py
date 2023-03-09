@@ -4,5 +4,10 @@ def ghoul():
         i -= 7
         yield i
 
+
 for i in ghoul():
     print(i)
+
+
+def say_something():
+    print("say something")
