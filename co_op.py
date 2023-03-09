@@ -1,7 +1,7 @@
 
-
 def reson():
     print("Мои условия очень просто я хочу что бы Мадара стал президентом!")
+
 
 """
 heello@heello-HP-ProBook-450-G2:~/co_op$ git init
